@@ -1,1 +1,2 @@
 Hello little blue world.
+Adding second line to test git commit without -m
